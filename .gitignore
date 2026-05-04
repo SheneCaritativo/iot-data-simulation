@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Caches
+.mypy_cache/
+.cache/
